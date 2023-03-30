@@ -18,6 +18,7 @@ Homeworld. Extremely light pirate activity.
 - Respawn and refining services are available at spawn. 
 - Ammo and guns are available for barter from spawn.
 - Hostile factions present on-world only spawn with small grid ships that can be taken down with handheld guns or a modestly-armed ground vehicles
+- oxygen rich atmosphere provides good conditions for a variety of material production processes
 
 #### Available Minerals
 - Gravel - Found in all non-ore voxels.
@@ -29,6 +30,11 @@ Homeworld. Extremely light pirate activity.
 - Bioplastics - Generated. Only available from bioplastic refineries, the pinnacle production tech for this planet.
 - ??? - Only available upon return with t2 ore detector
 - ??? - Only available upon return with t2 ore detector
+
+#### Available Gases
+- Nitrogen via t2 compressor
+- Oxygen via t2 compressor
+- Air via t1 compressor
 
 #### Available Tech and Materials
 - Steel plate (Iron Ore + Graphene) The foundational material
