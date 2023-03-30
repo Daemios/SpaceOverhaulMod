@@ -20,15 +20,15 @@ Homeworld. Extremely light pirate activity.
 - Hostile factions present on-world only spawn with small grid ships that can be taken down with handheld guns or a modestly-armed ground vehicles
 
 #### Available Minerals
-##### Gravel - Found in all non-ore voxels.
-##### Iron - Found in surface (small) and shallow (large, T1 req.) deposits
-##### Graphene - Refinable. Refined from gravel or found on pirate cargo shuttles.
-##### Aerogel - Loot only. Available from pirate caches found on armed pirate ships
-##### Neodymium - Refinable. Found in shallow (large) deposits and rarely in small surface deposits
-##### Lithium - Refinable. Found in shallow (small, T1 req.) deposits and refined in small quantities via lithium refinery
-##### Bioplastics - Generated. Only available from bioplastic refineries, the pinnacle production tech for this planet.
-##### ??? - Only available upon return with t2 ore detector
-##### ??? - Only available upon return with t2 ore detector
+- Gravel - Found in all non-ore voxels.
+- Iron - Found in surface (small) and shallow (large, T1 req.) deposits
+- Graphene - Refinable. Refined from gravel or found on pirate cargo shuttles.
+- Aerogel - Loot only. Available from pirate caches found on armed pirate ships
+- Neodymium - Refinable. Found in shallow (large) deposits and rarely in small surface deposits
+- Lithium - Refinable. Found in shallow (small, T1 req.) deposits and refined in small quantities via lithium refinery
+- Bioplastics - Generated. Only available from bioplastic refineries, the pinnacle production tech for this planet.
+- ??? - Only available upon return with t2 ore detector
+- ??? - Only available upon return with t2 ore detector
 
 #### Available Tech and Materials
 - Steel plate (Iron Ore + Graphene) The foundational material
@@ -42,16 +42,16 @@ Homeworld. Extremely light pirate activity.
 - Hydrogen Thruster (Bioplastics)
 
 #### Tech Progression (Remove before release)
-Hand mine Gravel + Iron ore 
-Trade for guns+ammo
-Graphene by bringing down a cargo shuttle
-Steel plates via iron and graphene
-Ice for hydrogen pellets
-T1 Generation available via hydrogen engine 
-Purchase turret(s)
-Small grid vehicle with bartered turret / storage for ore
-More Neodynium for T1 Ore Detector
-Mass lithium refinement
-Aerogel from armed pirate small grids
-Lithium and aerogel gate unlocks hydrogen tanks and thrusters
+- Hand mine Gravel + Iron ore 
+- Trade for guns+ammo
+- Graphene by bringing down a cargo shuttle
+- Steel plates via iron and graphene
+- Ice for hydrogen pellets
+- T1 Generation available via hydrogen engine 
+- Purchase turret(s)
+- Small grid vehicle with bartered turret / storage for ore
+- More Neodynium for T1 Ore Detector
+- Mass lithium refinement
+- Aerogel from armed pirate small grids
+- Lithium and aerogel gate unlocks hydrogen tanks and thrusters
 
