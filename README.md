@@ -59,6 +59,7 @@ Homeworld. Extremely light pirate activity.
 - More Neodynium for T1 Ore Detector
 - Mass lithium refinement
 - Aerogel from armed pirate small grids
-- Lithium and aerogel gate unlocks hydrogen tanks and thrusters
+- Lithium and aerogel gate unlocks bioplastic foundries
+- hydrogen tanks and thrusters with bioplastic
 - T1 compressor and oxygen tanks
 - go to moon
