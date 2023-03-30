@@ -49,7 +49,7 @@ Homeworld. Extremely light pirate activity.
 - Ice for hydrogen pellets
 - T1 Generation available via hydrogen engine 
 - Purchase turret(s)
-- Small grid vehicle with bartered turret / storage for ore
+- Mad Max mode enabled. Small grid vehicle with bartered turret / storage for ore is available.
 - More Neodynium for T1 Ore Detector
 - Mass lithium refinement
 - Aerogel from armed pirate small grids
