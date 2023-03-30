@@ -20,15 +20,15 @@ Homeworld. Extremely light pirate activity.
 - Hostile factions present on-world only spawn with small grid ships that can be taken down with handheld guns or a modestly-armed ground vehicles
 
 #### Available Minerals
-Gravel - Found in all non-ore voxels.
-Iron - Found in surface (small) and shallow (large, T1 req.) deposits
-Graphene - Refinable. Refined from gravel or found on pirate cargo shuttles.
-Aerogel - Loot only. Available from pirate caches found on armed pirate ships
-Neodymium - Refinable. Found in shallow (large) deposits and rarely in small surface deposits
-Lithium - Refinable. Found in shallow (small, T1 req.) deposits and refined in small quantities via lithium refinery
-Bioplastics - Generated. Only available from bioplastic refineries, the pinnacle production tech for this planet.
-??? - Only available upon return with t2 ore detector
-??? - Only available upon return with t2 ore detector
+#####Gravel - Found in all non-ore voxels.
+#####Iron - Found in surface (small) and shallow (large, T1 req.) deposits
+#####Graphene - Refinable. Refined from gravel or found on pirate cargo shuttles.
+#####Aerogel - Loot only. Available from pirate caches found on armed pirate ships
+#####Neodymium - Refinable. Found in shallow (large) deposits and rarely in small surface deposits
+#####Lithium - Refinable. Found in shallow (small, T1 req.) deposits and refined in small quantities via lithium refinery
+#####Bioplastics - Generated. Only available from bioplastic refineries, the pinnacle production tech for this planet.
+#####??? - Only available upon return with t2 ore detector
+#####??? - Only available upon return with t2 ore detector
 
 #### Available Tech and Materials
 - Steel plate (Iron Ore + Graphene) The foundational material
