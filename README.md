@@ -61,5 +61,5 @@ Homeworld. Extremely light pirate activity.
 - Aerogel from armed pirate small grids
 - Lithium and aerogel gate unlocks bioplastic foundries
 - hydrogen tanks and thrusters with bioplastic
-- T1 compressor and oxygen tanks
+- T1 compressor and air tanks
 - go to moon
