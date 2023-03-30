@@ -10,11 +10,17 @@ Core concepts and goals:
 - Space should feel dangerous and until a player is confident in their ship, the focus is on getting to your destination without dying
 - Grinding ships is heavily nerfed, both by hand and via large grinder pits until late game
 
-## Planetary Details
+## Location Details
+### Space
+Hotspot for pirate activity and advanced factions
+Notable features: Extremely rare asteroids containing precious metals used in Ion Thrusters
+
 ### Earth
 Homeworld. Extremely light pirate activity. Starting location.
+Notable features: Atmosphere is extremely condusive to production facitilities
 
 #### Moon
+Noteable features: 
 
 ### Mars
 
