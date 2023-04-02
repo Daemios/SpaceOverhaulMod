@@ -10,7 +10,7 @@ Core concepts and goals:
 - Grinding is heavily nerfed, both by hand and via large grinder pits until late game
 
 # Location Details
-Each location in the solar system provides unique resources and materials.
+Each location in the solar system provides unique resources and environmental conditions.
 
 ## Space
 Hotspot for pirate activity and advanced factions-- inhospitable until late game.
