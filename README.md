@@ -9,8 +9,11 @@ Core concepts and goals:
 - Grinding is heavily nerfed, both by hand and via large grinder pits until late game
 - Various tedious mining operations can be automated with expensive but passive resource generating blocks available for static grids
 - Automated mining does not require the grid to be loaded to increment the 'haul' of resources
+- Distances between planets and moons have been increased
+- Jumpgate blocks allow players to build, aim, and utilize FTL travel by building up infrastructure
 - Aspirationally, I would like to allow players to set up cargo routes by 'recording' the time it takes them to fly between two grids and docking.
 - Cargo routes would transfer the recorded amount of cargo every N minutes, where N is the time it took to fly the route.
+- higher tier jumpgates would allow for more cargo to be moved
 
 # Location Details
 Each location in the solar system provides unique resources and environmental conditions.
@@ -35,10 +38,12 @@ First point of interest after leaving Earth.
 
 ### Notable features
 - Several low-tier dense ore deposits are available for automining.
+- Tier 1 jumpgate available at end of Mars/Europa tree
 
 ## Europa
 ### About
 ### Notable features 
+- Tier 1 jumpgate available at end of Mars/Europa tree
 
 ## Triton
 ### About
