@@ -29,11 +29,12 @@ Homeworld. Extremely light pirate activity. Starting location.
 First point of interest after leaving Earth.
 ### Notable features 
 - Low-G environment useful to produce advanced materials required for further exploration
+- T1 iron miner available for use on earth at end of Moon progression
 
 ## Mars
 
 ### Notable features
-- Several low-tier (i.e. iron) dense ore deposits are available for automining.
+- Several low-tier dense ore deposits are available for automining.
 
 ## Europa
 ### About
