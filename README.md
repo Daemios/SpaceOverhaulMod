@@ -1,4 +1,4 @@
-# SpaceOverhaulMod
+# Space Overhaul Mod
 Space Engineers overhaul that makes progression between stellar bodies and the gathering of materials the main focus of the game. 
 
 Core concepts and goals:
@@ -9,42 +9,42 @@ Core concepts and goals:
 - PvE is supported by adding resources only found in pirate 'loot' inventories called caches.
 - Grinding ships is heavily nerfed, both by hand and via large grinder pits until late game
 
-## Location Details
-### Space
+# Location Details
+## Space
 Hotspot for pirate activity and advanced factions-- inhospitable until late game.
 Notable features: Extremely rare asteroids containing precious metals used in Ion Thrusters
 
-### Earth
-#### About
+## Earth
+### About
 Homeworld. Extremely light pirate activity. Starting location.
 #### Notable features 
 Atmosphere is extremely condusive to production facilities
 
-### Moon
-#### About
+## Moon
+### About
 First point of interest.
-#### Notable features 
+### Notable features 
 
-### Mars
-#### About
-#### Notable features 
+## Mars
+### About
+### Notable features 
 
-### Europa
-#### About
-#### Notable features 
+## Europa
+### About
+### Notable features 
 
-### Triton
-#### About
-#### Notable features 
+## Triton
+### About
+### Notable features 
 
-### Pertram
-#### About
-#### Notable features 
+## Pertram
+### About
+### Notable features 
 
-### Alien Planet
-#### About
-#### Notable features 
+## Alien Planet
+### About
+### Notable features 
 
-### Titan
-#### About
-#### Notable features 
+## Titan
+### About
+### Notable features 
