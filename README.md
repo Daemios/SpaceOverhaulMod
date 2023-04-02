@@ -3,11 +3,14 @@ Space Engineers overhaul that makes progression between stellar bodies and the g
 
 Core concepts and goals:
 - Most tech blocks and tools have several tiers available to add additional functionality, as well as speed/power/etc.
-- Various tedious mining operations can be automated with expensive but passive resource generating blocks available for static grids.
 - Most ores aren't detectable until the player posseses the correct tier of ore detector.
 - Power generators have various tiers and engineering decisions are constrained by a balance pass to the power draw of most blocks. 
 - PvE is supported by adding resources only found in pirate 'loot' inventories called caches.
 - Grinding is heavily nerfed, both by hand and via large grinder pits until late game
+- Various tedious mining operations can be automated with expensive but passive resource generating blocks available for static grids
+- Automated mining does not require the grid to be loaded to increment the 'haul' of resources
+- Aspirationally, I would like to allow players to set up cargo routes by 'recording' the time it takes them to fly between two grids and docking.
+- Cargo routes would transfer the recorded amount of cargo every N minutes, where N is the time it took to fly the route.
 
 # Location Details
 Each location in the solar system provides unique resources and environmental conditions.
