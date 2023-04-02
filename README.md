@@ -15,21 +15,36 @@ Hotspot for pirate activity and advanced factions-- inhospitable until late game
 Notable features: Extremely rare asteroids containing precious metals used in Ion Thrusters
 
 ### Earth
+#### About
 Homeworld. Extremely light pirate activity. Starting location.
-Notable features: Atmosphere is extremely condusive to production facilities
+#### Notable features 
+Atmosphere is extremely condusive to production facilities
 
-#### Moon
+### Moon
+#### About
 First point of interest.
-Noteable features: 
+#### Notable features 
 
 ### Mars
+#### About
+#### Notable features 
 
-#### Europa
+### Europa
+#### About
+#### Notable features 
 
 ### Triton
+#### About
+#### Notable features 
 
 ### Pertram
+#### About
+#### Notable features 
 
 ### Alien Planet
+#### About
+#### Notable features 
 
-#### Titan
+### Titan
+#### About
+#### Notable features 
