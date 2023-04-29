@@ -37,28 +37,22 @@ First point of interest after leaving Earth.
 - T1 iron miner available for use on earth at end of Moon progression
 
 ## Mars
-
 ### Notable features
 - Several low-tier dense ore deposits are available for automining.
 - Tier 1 jumpgate available at end of Mars/Europa tree
 
 ## Europa
-### About
 ### Notable features 
 - Tier 1 jumpgate available at end of Mars/Europa tree
 
 ## Triton
-### About
 ### Notable features 
 
 ## Pertram
-### About
 ### Notable features 
 
 ## Alien Planet
-### About
 ### Notable features 
 
 ## Titan
-### About
 ### Notable features 
