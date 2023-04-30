@@ -11,10 +11,10 @@ Core concepts and goals:
 - Higher grinder levels unlock additional materials that are returned. Grinding without the requisite grinder for a material deletes the item and returns it as scrap.
 - Distances between planets and moons have been increased.
 - Jumpgate blocks allow players to build, aim, and utilize FTL travel by building up infrastructure dedicated to traversing space.
-- SOM introduces different tiers of warp drives for late- and endgame vessels (low tier options are called 'Pull Drives' and have to be assigned to a specific jump anchor)
+- SOM introduces different tiers of warp drives for late- and endgame vessels (low tier options are called 'Tug Drives' and have to be assigned to a specific jump anchor)
 - Aspirationally, I would like to allow players to set up cargo routes by 'recording' the time it takes them to fly between two grids and docking.
 - Cargo routes would transfer the recorded amount of cargo every N minutes, where N is the time it took to fly the route.
-- higher tier jumpgates would allow for more cargo to be moved
+- Higher tier jumpgates would allow for more cargo to be moved
 
 # Location Details
 Each location in the solar system provides unique resources and environmental conditions.
