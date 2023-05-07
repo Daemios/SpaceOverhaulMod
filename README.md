@@ -27,7 +27,8 @@ Hotspot for pirate activity and advanced factions-- inhospitable until late game
 
 ## Earth
 Homeworld. Extremely light pirate activity. Starting location.
-####Notable features 
+
+#### Notable features 
 - Earth's atmosphere, gravity, and environment are extremely condusive to most production facilities
 
 ## Moon
