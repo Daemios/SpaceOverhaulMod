@@ -17,7 +17,7 @@ Space Engineers overhaul that makes progression between stellar bodies and the g
 - Higher tier jumpgates would allow for more cargo to be moved
 
 # Core Mods
-MES, Defnse Shields, Water Mod, Aerodynamic Physics, WeaponCore
+MES, Defense Shields, Water Mod, Aerodynamic Physics, WeaponCore
 
 # Core Concepts
 ## Environmental Crafting
