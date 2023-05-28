@@ -16,6 +16,9 @@ Space Engineers overhaul that makes progression between stellar bodies and the g
 - Cargo routes would transfer the recorded amount of cargo every N minutes, where N is the time it took to fly the route.
 - Higher tier jumpgates would allow for more cargo to be moved
 
+# Core Mods
+MES, Defnse Shields, Water Mod, Aerodynamic Physics, WeaponCore
+
 # Core Concepts
 ## Environmental Crafting
 This mod adds several blocks that require certain environmental factors in order to function, such as atmosphere (various types) and gravity (various strengths).
